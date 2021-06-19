@@ -1,1 +1,1 @@
-var student = "Ilona"
+import './js/variables.js';
