@@ -1,3 +1,5 @@
+console.log(`Hello, guys!!! This is VARIABLES-file!`);
+
 console.log(student);
 
 var student = "Ilona";
